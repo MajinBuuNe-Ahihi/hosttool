@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HostTool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cedb646443c0eba8058d63a1dc29df3fddd5645a")]
 [assembly: System.Reflection.AssemblyProductAttribute("HostTool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HostTool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

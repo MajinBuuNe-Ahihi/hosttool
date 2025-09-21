@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|solutionrelative:infrastructure\\infrastructurescheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|c:\\users\\g\\3d objects\\tools\\hosttool\\services\\schedulerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|solutionrelative:services\\schedulerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|c:\\users\\g\\3d objects\\tools\\hosttool\\infrastructure\\appdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|solutionrelative:infrastructure\\appdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|c:\\users\\g\\3d objects\\tools\\hosttool\\services\\schedulerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|solutionrelative:services\\schedulerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|c:\\users\\g\\3d objects\\tools\\hosttool\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,8 +90,7 @@
               "RelativeToolTip": "Services\\NotificationService.cs",
               "ViewState": "AgIAAFwAAAAAAAAAAAAmwGkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T10:09:16.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T10:09:16.799Z"
             },
             {
               "$type": "Document",
@@ -202,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AppDataContext.cs",
               "DocumentMoniker": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\Infrastructure\\AppDataContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\AppDataContext.cs",
@@ -221,14 +220,14 @@
               "RelativeDocumentMoniker": "Infrastructure\\InfrastructureScheduler.cs",
               "ToolTip": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\Infrastructure\\InfrastructureScheduler.cs",
               "RelativeToolTip": "Infrastructure\\InfrastructureScheduler.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAowDgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-20T05:45:29.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SchedulerServices.cs",
               "DocumentMoniker": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\Services\\SchedulerServices.cs",
               "RelativeDocumentMoniker": "Services\\SchedulerServices.cs",
@@ -236,8 +235,7 @@
               "RelativeToolTip": "Services\\SchedulerServices.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T05:44:24.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T05:44:24.748Z"
             },
             {
               "$type": "Document",
