@@ -2,7 +2,7 @@
 import axios from 'axios';
 
 const http = axios.create({
-  baseURL: 'https://localhost:44334/api', // baseURL theo backend của bạn
+  baseURL: 'https://hosttool.onrender.com/api', // baseURL theo backend của bạn
   timeout: 10000,
 });
 

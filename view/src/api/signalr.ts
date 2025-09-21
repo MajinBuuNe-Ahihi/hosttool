@@ -50,7 +50,7 @@ class SignalRService {
     }
 debugger
     this.connection = new signalR.HubConnectionBuilder()
-      .withUrl('https://localhost:44334/notificationHub', {
+      .withUrl('https://hosttool.onrender.com/notificationHub', {
         skipNegotiation: true,
         transport: signalR.HttpTransportType.WebSockets
       })

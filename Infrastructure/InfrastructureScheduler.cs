@@ -1,4 +1,6 @@
 ﻿using HostTool.Domain;
+using Microsoft.EntityFrameworkCore;
+using System;
 
 namespace HostTool.Infrastructure
 {
@@ -8,6 +10,9 @@ namespace HostTool.Infrastructure
         public InfrastructureScheduler()
         {
             _datacontext = new AppDataContext();
+       
+            _datacontext.Database.Migrate(); // tạo DB + bảng nếu chưa có
+            
         }
 
         public List<Scheduler> GetSchedulers()
