@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|c:\\users\\g\\3d objects\\tools\\hosttool\\infrastructure\\infrastructurescheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|solutionrelative:infrastructure\\infrastructurescheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|c:\\users\\g\\3d objects\\tools\\hosttool\\services\\schedulerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|solutionrelative:services\\schedulerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|c:\\users\\g\\3d objects\\tools\\hosttool\\infrastructure\\appdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|solutionrelative:infrastructure\\appdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|c:\\users\\g\\3d objects\\tools\\hosttool\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|solutionrelative:services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|c:\\users\\g\\3d objects\\tools\\hosttool\\controllers\\toolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|solutionrelative:controllers\\toolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|c:\\users\\g\\3d objects\\tools\\hosttool\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|c:\\users\\g\\3d objects\\tools\\hosttool\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|c:\\users\\g\\3d objects\\tools\\hosttool\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|c:\\users\\g\\3d objects\\tools\\hosttool\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|c:\\users\\g\\3d objects\\tools\\hosttool\\hosttool.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|solutionrelative:hosttool.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|c:\\users\\g\\3d objects\\tools\\hosttool\\hosttool.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|solutionrelative:hosttool.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|c:\\users\\g\\3d objects\\tools\\hosttool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\g\\3D Objects\\Tools\\HostTool\\obj\\Debug\\net6.0\\HostTool.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net6.0\\HostTool.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\g\\3D Objects\\Tools\\HostTool\\obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|c:\\users\\g\\3d objects\\tools\\hosttool\\devicesimulator\\devicesimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|solutionrelative:devicesimulator\\devicesimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|c:\\users\\g\\3d objects\\tools\\hosttool\\domain\\scheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|solutionrelative:domain\\scheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|c:\\users\\g\\3d objects\\tools\\hosttool\\library\\uuidv7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDFE7144-4261-4041-9B4E-D79AD796B51A}|HostTool.csproj|solutionrelative:library\\uuidv7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "Services\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\Services\\NotificationService.cs",
+              "RelativeToolTip": "Services\\NotificationService.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAmwGkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T10:09:16.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-20T10:08:55.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-20T10:06:17.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\web.config",
+              "RelativeDocumentMoniker": "web.config",
+              "ToolTip": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\web.config",
+              "RelativeToolTip": "web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-20T10:06:08.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-20T10:06:02.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HostTool",
+              "DocumentMoniker": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\HostTool.csproj",
+              "RelativeDocumentMoniker": "HostTool.csproj",
+              "ToolTip": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\HostTool.csproj",
+              "RelativeToolTip": "HostTool.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-20T09:59:45.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": ".NETCoreApp,Version=v6.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T09:45:08.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HostTool.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\obj\\Debug\\net6.0\\HostTool.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net6.0\\HostTool.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\obj\\Debug\\net6.0\\HostTool.AssemblyInfo.cs",
+              "RelativeToolTip": "obj\\Debug\\net6.0\\HostTool.AssemblyInfo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T09:44:57.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeviceSimulator.cs",
+              "DocumentMoniker": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\DeviceSimulator\\DeviceSimulator.cs",
+              "RelativeDocumentMoniker": "DeviceSimulator\\DeviceSimulator.cs",
+              "ToolTip": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\DeviceSimulator\\DeviceSimulator.cs",
+              "RelativeToolTip": "DeviceSimulator\\DeviceSimulator.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T09:09:35.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAuwEQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T06:49:41.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\Infrastructure\\AppDataContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\AppDataContext.cs",
+              "ToolTip": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\Infrastructure\\AppDataContext.cs",
+              "RelativeToolTip": "Infrastructure\\AppDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T05:54:57.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InfrastructureScheduler.cs",
+              "DocumentMoniker": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\Infrastructure\\InfrastructureScheduler.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\InfrastructureScheduler.cs",
+              "ToolTip": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\Infrastructure\\InfrastructureScheduler.cs",
+              "RelativeToolTip": "Infrastructure\\InfrastructureScheduler.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAmwF0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T05:45:29.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchedulerServices.cs",
+              "DocumentMoniker": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\Services\\SchedulerServices.cs",
+              "RelativeDocumentMoniker": "Services\\SchedulerServices.cs",
+              "ToolTip": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\Services\\SchedulerServices.cs",
+              "RelativeToolTip": "Services\\SchedulerServices.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T05:44:24.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UUIDV7.cs",
+              "DocumentMoniker": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\Library\\UUIDV7.cs",
+              "RelativeDocumentMoniker": "Library\\UUIDV7.cs",
+              "ToolTip": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\Library\\UUIDV7.cs",
+              "RelativeToolTip": "Library\\UUIDV7.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T05:33:54.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Scheduler.cs",
+              "DocumentMoniker": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\Domain\\Scheduler.cs",
+              "RelativeDocumentMoniker": "Domain\\Scheduler.cs",
+              "ToolTip": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\Domain\\Scheduler.cs",
+              "RelativeToolTip": "Domain\\Scheduler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T05:31:47.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HostTool.csproj",
+              "DocumentMoniker": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\HostTool.csproj",
+              "RelativeDocumentMoniker": "HostTool.csproj",
+              "ToolTip": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\HostTool.csproj",
+              "RelativeToolTip": "HostTool.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-20T05:30:33.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ToolController.cs",
+              "DocumentMoniker": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\Controllers\\ToolController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ToolController.cs",
+              "ToolTip": "C:\\Users\\g\\3D Objects\\Tools\\HostTool\\Controllers\\ToolController.cs",
+              "RelativeToolTip": "Controllers\\ToolController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T05:28:25.117Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

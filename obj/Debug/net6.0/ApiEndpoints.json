@@ -1,0 +1,270 @@
+[
+  {
+    "ContainingType": "HostTool.Controllers.DeviceController",
+    "Method": "GetAllDevices",
+    "RelativePath": "api/Device",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HostTool.Controllers.DeviceController",
+    "Method": "GetDevice",
+    "RelativePath": "api/Device/{deviceId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "deviceId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HostTool.Controllers.DeviceController",
+    "Method": "DeleteDevice",
+    "RelativePath": "api/Device/{deviceId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "deviceId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HostTool.Controllers.DeviceController",
+    "Method": "GetDeviceEvents",
+    "RelativePath": "api/Device/{deviceId}/events",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "deviceId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "limit",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HostTool.Controllers.DeviceController",
+    "Method": "UpdateDeviceStatus",
+    "RelativePath": "api/Device/{deviceId}/status",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "deviceId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "HostTool.Controllers.UpdateStatusRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HostTool.Controllers.DeviceController",
+    "Method": "GetDeviceStatus",
+    "RelativePath": "api/Device/{deviceId}/status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "deviceId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HostTool.Controllers.DeviceController",
+    "Method": "CleanupOfflineDevices",
+    "RelativePath": "api/Device/cleanup",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "timeoutMinutes",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HostTool.Controllers.DeviceController",
+    "Method": "UpdateHeartbeat",
+    "RelativePath": "api/Device/heartbeat",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "HostTool.Domain.DeviceHeartbeatRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HostTool.Controllers.DeviceController",
+    "Method": "GetOfflineDevices",
+    "RelativePath": "api/Device/offline",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HostTool.Controllers.DeviceController",
+    "Method": "GetOnlineDevices",
+    "RelativePath": "api/Device/online",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HostTool.Controllers.DeviceController",
+    "Method": "RegisterDevice",
+    "RelativePath": "api/Device/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "HostTool.Domain.DeviceRegistrationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HostTool.Controllers.ToolController",
+    "Method": "CreateScheduler",
+    "RelativePath": "api/Tool",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HostTool.Domain.SchedulerDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HostTool.Controllers.ToolController",
+    "Method": "UpdateSchduler",
+    "RelativePath": "api/Tool",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HostTool.Domain.SchedulerDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HostTool.Controllers.ToolController",
+    "Method": "GetListScheduler",
+    "RelativePath": "api/Tool/GetListScheduler",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HostTool.Controllers.ToolController",
+    "Method": "GetSchedulerDays",
+    "RelativePath": "api/Tool/GetSchedulerDays/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HostTool.Controllers.ToolController",
+    "Method": "GetSchedulers",
+    "RelativePath": "api/Tool/GetSchedulers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HostTool.Controllers.ToolController",
+    "Method": "SendNotification",
+    "RelativePath": "api/Tool/SendNotification",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "HostTool.Controllers.NotificationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HostTool.Controllers.ToolController",
+    "Method": "SendSystemEvent",
+    "RelativePath": "api/Tool/SendSystemEvent",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "HostTool.Controllers.SystemEventRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
