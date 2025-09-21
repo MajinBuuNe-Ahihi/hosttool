@@ -10,9 +10,39 @@ namespace HostTool.Infrastructure
         public InfrastructureScheduler()
         {
             _datacontext = new AppDataContext();
-       
-            _datacontext.Database.Migrate(); // tạo DB + bảng nếu chưa có
-            
+            try
+            {
+                // Kiểm tra xem database có tồn tại và có bảng chưa
+                if (!_datacontext.Database.CanConnect())
+                {
+                    // Database chưa tồn tại, tạo mới
+                    _datacontext.Database.EnsureCreated();
+                }
+                else
+                {
+                    // Database đã tồn tại, kiểm tra xem có cần migrate không
+                    var pendingMigrations = _datacontext.Database.GetPendingMigrations();
+                    if (pendingMigrations.Any())
+                    {
+                        // Có migration chưa được áp dụng, thực hiện migrate
+                        _datacontext.Database.Migrate();
+                    }
+                    // Nếu không có pending migrations, không cần làm gì
+                }
+            }
+            catch (Exception ex)
+            {
+                // Nếu có lỗi, thử tạo database từ đầu
+                try
+                {
+                    _datacontext.Database.EnsureCreated();
+                }
+                catch (Exception ensureCreatedEx)
+                {
+                    // Log lỗi và xử lý theo cách phù hợp
+                    throw new InvalidOperationException($"Failed to initialize database: {ensureCreatedEx.Message}", ensureCreatedEx);
+                }
+            }
         }
 
         public List<Scheduler> GetSchedulers()
