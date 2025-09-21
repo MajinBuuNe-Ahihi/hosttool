@@ -4,7 +4,7 @@ import { schedulerService } from '../src/api/scheduler'
 import type { Scheduler, SchedulerDay, CreateUpdateSchedulerDto } from '../src/api/scheduler'
 import { v7 as uuidv7 } from 'uuid'
 import NotificationCenter from './components/NotificationCenter.vue'
-import DeviceManagement from './components/DeviceManagement.vue'
+
 // state
 const schedulers = ref<Scheduler[]>([])
 const totalCount = ref(0)
@@ -97,7 +97,7 @@ async function removeScheduler(obj: Scheduler) {
       editMode: 1, // 1=edit,0=create
     }
 
-    await schedulerService.update(selectedScheduler.schedulerId, dto)
+    await schedulerService.update(selectedScheduler?.schedulerId || "", dto)
     await loadData()
   }
 }
@@ -125,8 +125,6 @@ onMounted(loadData)
     <!-- Notification Center -->
     <NotificationCenter />
 
-    <!-- Device Management -->
-    <DeviceManagement />
 
     <!-- Schedulers Section -->
     <div class="card shadow-sm">
